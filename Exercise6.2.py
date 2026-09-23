@@ -24,4 +24,4 @@ def Plot():
     ax.scatter(x, y, z)
     plt.show()
 
-Plot()
+Plot()t

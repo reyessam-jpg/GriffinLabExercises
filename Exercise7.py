@@ -7,4 +7,4 @@ import matplotlib.pyplot as plt
 def InitialParam():
     x = random.randint(0, 10)
     y = random.randint(0, 10)
-    z = random.randint()
+    z = random.randint(0, 10)
